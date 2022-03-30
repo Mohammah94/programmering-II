@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\bin\Debug\netcoreapp3.1\Bokhyllan.exe
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\bin\Debug\netcoreapp3.1\Bokhyllan.deps.json
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\bin\Debug\netcoreapp3.1\Bokhyllan.runtimeconfig.json
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\bin\Debug\netcoreapp3.1\Bokhyllan.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\bin\Debug\netcoreapp3.1\Bokhyllan.dll
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\bin\Debug\netcoreapp3.1\Bokhyllan.pdb
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\obj\Debug\netcoreapp3.1\Bokhyllan.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\obj\Debug\netcoreapp3.1\Bokhyllan.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\obj\Debug\netcoreapp3.1\Bokhyllan.AssemblyInfo.cs
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\obj\Debug\netcoreapp3.1\Bokhyllan.dll
+C:\Users\HP\Desktop\Bokhyllan\Bokhyllan\obj\Debug\netcoreapp3.1\Bokhyllan.pdb

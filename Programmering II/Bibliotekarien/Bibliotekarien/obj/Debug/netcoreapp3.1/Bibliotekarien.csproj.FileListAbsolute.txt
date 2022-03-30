@@ -1,0 +1,11 @@
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\obj\Debug\netcoreapp3.1\Bibliotekarien.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\obj\Debug\netcoreapp3.1\Bibliotekarien.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\obj\Debug\netcoreapp3.1\Bibliotekarien.AssemblyInfo.cs
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\bin\Debug\netcoreapp3.1\Bibliotekarien.exe
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\bin\Debug\netcoreapp3.1\Bibliotekarien.deps.json
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\bin\Debug\netcoreapp3.1\Bibliotekarien.runtimeconfig.json
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\bin\Debug\netcoreapp3.1\Bibliotekarien.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\bin\Debug\netcoreapp3.1\Bibliotekarien.dll
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\bin\Debug\netcoreapp3.1\Bibliotekarien.pdb
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\obj\Debug\netcoreapp3.1\Bibliotekarien.dll
+C:\Users\HP\Desktop\Bibliotekarien\Bibliotekarien\obj\Debug\netcoreapp3.1\Bibliotekarien.pdb

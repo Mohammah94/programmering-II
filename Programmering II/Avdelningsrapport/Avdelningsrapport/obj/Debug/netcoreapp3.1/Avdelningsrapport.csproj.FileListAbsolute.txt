@@ -1,0 +1,13 @@
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\bin\Debug\netcoreapp3.1\Avdelningsrapport.exe
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\bin\Debug\netcoreapp3.1\Avdelningsrapport.deps.json
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\bin\Debug\netcoreapp3.1\Avdelningsrapport.runtimeconfig.json
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\bin\Debug\netcoreapp3.1\Avdelningsrapport.runtimeconfig.dev.json
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\bin\Debug\netcoreapp3.1\Avdelningsrapport.dll
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\bin\Debug\netcoreapp3.1\Avdelningsrapport.pdb
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\obj\Debug\netcoreapp3.1\Avdelningsrapport.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\obj\Debug\netcoreapp3.1\Avdelningsrapport.Form1.resources
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\obj\Debug\netcoreapp3.1\Avdelningsrapport.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\obj\Debug\netcoreapp3.1\Avdelningsrapport.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\obj\Debug\netcoreapp3.1\Avdelningsrapport.AssemblyInfo.cs
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\obj\Debug\netcoreapp3.1\Avdelningsrapport.dll
+C:\Users\HP\Desktop\Avdelningsrapport\Avdelningsrapport\obj\Debug\netcoreapp3.1\Avdelningsrapport.pdb

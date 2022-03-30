@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\bin\Debug\netcoreapp3.1\TipsMaskin.exe
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\bin\Debug\netcoreapp3.1\TipsMaskin.deps.json
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\bin\Debug\netcoreapp3.1\TipsMaskin.runtimeconfig.json
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\bin\Debug\netcoreapp3.1\TipsMaskin.runtimeconfig.dev.json
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\bin\Debug\netcoreapp3.1\TipsMaskin.dll
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\bin\Debug\netcoreapp3.1\TipsMaskin.pdb
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.csprojAssemblyReference.cache
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.Form1.resources
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.AssemblyInfo.cs
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.dll
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.pdb
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\TipsMaskin\TipsMaskin\obj\Debug\netcoreapp3.1\TipsMaskin.genruntimeconfig.cache
